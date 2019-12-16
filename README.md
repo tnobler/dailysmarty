@@ -1,5 +1,1 @@
-# React/Redux/Router Starter Project
-
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
-
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
+Resume tutorial from Devcamp at guide 1800 "Utilizing Axios to perform a GET Request on the Redux Thunk Action Dispatcher" I stopped at 2:41 into the video.  
